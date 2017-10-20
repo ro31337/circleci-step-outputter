@@ -1,5 +1,7 @@
 # circle-step-outputter [![Build Status](https://travis-ci.org/artemv/circle-step-outputter.svg?branch=master)](https://travis-ci.org/artemv/circle-step-outputter) [![codecov](https://codecov.io/gh/artemv/circle-step-outputter/badge.svg?branch=master)](https://codecov.io/gh/artemv/circle-step-outputter?branch=master)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/artemv/circleci-step-outputter.svg)](https://greenkeeper.io/)
+
 > Writes CircleCI step output to a file
 
 
